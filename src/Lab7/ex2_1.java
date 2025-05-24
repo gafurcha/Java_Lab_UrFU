@@ -5,7 +5,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class ex1_1 {
+public class ex2_1 {
     public static void main(String[] args) {
         // Создание папки (создадутся все промежуточные каталоги)
         File folder = new File("src/l7g/example1/example_folder");
